@@ -1,5 +1,5 @@
 # 💫 Hey, I'm Shaurya
-🔭 I’m currently working on [Readme.MD](https://github.com/shauryaah/shauryaah/blob/main/README.md)<br>
+🔭 I’m currently working on [Nothing]()<br>
 🌱 I’m currently learning [Python](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)<br>
 💬 Ask me about nothing...<br>
 ⚡ Fun fact : [You'll love this](https://youtu.be/LDU_Txk06tM?t=74)<br>
